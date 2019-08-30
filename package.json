@@ -1,0 +1,20 @@
+{
+  "name": "js-demo",
+  "version": "1.0.0",
+  "description": "for my tuto",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TalbiDev/js-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TalbiDev/js-demo/issues"
+  },
+  "homepage": "https://github.com/TalbiDev/js-demo#readme"
+}
